@@ -1,0 +1,25 @@
+_repo: A-Book-of-Simples_53951
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Lewer, Henry William
+    alias: Lewer, H. W.
+    gutenberg_agent_id: '47637'
+    url: http://www.gutenberg.org/2009/agents/47637
+description: ''
+gutenberg_issued: '2017-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53951'
+  lccn: a15000632
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking -- Early works to 1800'
+- !lcc 'TX'
+- !lcsh 'Formulas, recipes, etc. -- Early works to 1800'
+- GITenberg
+title: A Book of Simples
+url: http://www.gutenberg.org/ebooks/53951
